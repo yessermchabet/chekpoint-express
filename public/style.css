@@ -1,0 +1,39 @@
+.oussema{
+    font-size: 45px;
+    color: red;
+    text-decoration: underline;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+
+.maryem{
+    text-decoration: underline;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: red;
+}
+
+
+#ali{
+    vertical-align: middle;
+    margin-left: 21%;
+    margin-top: 37px;
+    height: 462px;
+}
+
+
+
+#jalila{
+    margin-left: 18%;
+    margin-top: 92px;
+    height: 384px;
+}
+
+
+#mongo{
+    height: 343px;
+    margin-left: 26%;
+    margin-top: 50px;
+}
